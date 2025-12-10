@@ -63,6 +63,11 @@ body {
   display: flex;
 }
 
+.div img{
+  width: 200px;
+  height: 200px;
+}
+
 .card {
   display: flex;
   gap: 30px;
